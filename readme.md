@@ -17,6 +17,7 @@ This project was made using the follow technologies:
 
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/)
+- [Knex.js](http://knexjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 
