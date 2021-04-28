@@ -87,6 +87,5 @@ Read the QR Code with expo or run in an emulator.
 
 # :closed_book: License
 
-Made in 2020 :closed_book: License
-
+Made in 2020 by [José Elias](https://github.com/josephelias94).
 This project is under the [MIT license](./LICENSE).
